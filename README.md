@@ -42,7 +42,7 @@ Estes requisitos são as funcionalidades mínimas do sistema que deve entregar. 
 
 ### Testes
 
-Você também deve criar pelo menos testes end-to-end (e2e) coerentes com as funcionalidades que implementar nas classes. Também é permitida a criação de testes de integração e unitários, mas leve em consideração o tempo de prova.
+Você também deve criar pelo menos testes end-to-end (e2e) coerentes com as funcionalidades que implementar nas classes. Também é permitida a criação de testes de integração e unitários, mas leve em consideração o tempo de prova. Portanto, você é livre para optar dentre estas opções de teste, mas se deve testar pelo menos todos os requisitos funcionais da aplicação.
 
 Bom teste!
 
